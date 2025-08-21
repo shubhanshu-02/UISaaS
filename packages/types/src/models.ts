@@ -28,3 +28,5 @@ export interface Component {
   isPublic: boolean;
   createdAt: string;
 }
+export { Theme };
+

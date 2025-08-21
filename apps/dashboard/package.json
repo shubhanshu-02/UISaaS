@@ -9,11 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ui-saas/types": "file:../../packages/types",
     "autoprefixer": "^10.4.21",
     "axios": "^1.11.0",
     "monaco-editor": "^0.52.2",
     "next": "15.4.2",
     "next-auth": "^4.24.11",
+    "next-themes": "^0.4.6",
     "postcss": "^8.5.6",
     "react": "19.1.0",
     "react-dom": "19.1.0",

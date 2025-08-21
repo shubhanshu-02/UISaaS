@@ -1,3 +1,4 @@
+import { Component, Project, User, Theme } from './models';
 
 export interface CreateProjectPayload {
   name: string;
